@@ -7,3 +7,5 @@ El proyecto es una recopilación de código sql para la creación de las tablas,
 3. Pedro Cáceres
 ## 🚀 Diagrama de la bases de datos
 ![Estructura del proyecto](documentos/imagen.PNG)
+---
+> nota agregada

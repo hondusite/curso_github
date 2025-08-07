@@ -10,3 +10,4 @@ El proyecto es una recopilación de código sql para la creación de las tablas,
 > [!NOTE]
 > Información remarcada
 >agregado
+>cambio

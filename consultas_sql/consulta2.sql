@@ -1,2 +1,2 @@
 Select * from empleados
-where salario > 80000;
+where salario > 30000;

@@ -1,12 +1,28 @@
-# Proyecto de bases de datos de tienda
-## 🛠 Descripción del proyecto
-El proyecto es una recopilación de código sql para la creación de las tablas, consultas sql e inserción de datos
-## 👨‍👩‍👧‍👦 miembros de equipo
-1. Juan Perez
-2. María Gonzáles
-3. Pedro Cáceres
-## 🚀 Diagrama de la bases de datos
-![Estructura del proyecto](documentos/imagen.PNG)
-> [!NOTE]
-> Información remarcada
->agregado
+# Nombre del Proyecto
+
+Este es un proyecto ejemplo para mostrar cómo hacer un README.md con Markdown.
+
+## Objetivos
+
+1. Objetivo número uno.  
+2. Objetivo número dos.  
+3. Objetivo número tres.
+
+## Tecnologías usadas
+
+- Python  
+- Git  
+- Markdown  
+
+> "La simplicidad es la máxima sofisticación." — Leonardo da Vinci
+
+Puedes visitar [GitHub](https://github.com) para más información.
+
+![Imagen ejemplo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
+
+```python
+# Esto es un bloque de código en Python
+def saludo():
+    print("¡Hola, mundo!")
+
+saludo()

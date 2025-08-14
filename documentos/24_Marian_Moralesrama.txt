@@ -1,0 +1,4 @@
+cta:24
+nombre: Marian Morales
+curso:11 BTP
+edad: 16
